@@ -22,7 +22,7 @@ A simple command-line Rock Paper Scissor game written in Python. Play against th
 3. Run:
 
 ```bash
-python rock_paper_scissor.py
+python Game (rock_paper_scissor).py
 ```
 
 ## How to Play
@@ -95,7 +95,7 @@ no
 
 ```
 .
-├── rock_paper_scissor.py   # Main game script
+├── Game(Rock_paper_scissor).py   # Main game script
 └── README.md               # Project documentation
 ```
 
